@@ -1,4 +1,4 @@
-#Spam-mail-filtering
+# Spam-mail-filtering
 
 A text classifier in Python using classification algorithms of machine learning (Support vector machines, Naïve Bayes classifier, Random Forest) to detect if a given mail or message is spam or ham (not spam). Spam dataset was derived from Kaggle, UCI repository etc.
 
